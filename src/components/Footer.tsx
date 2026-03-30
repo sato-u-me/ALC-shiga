@@ -32,7 +32,7 @@ export default function Footer() {
           </a>
 
           <p className="font-[Outfit] text-[10px] tracking-widest uppercase text-white/20">
-            © 2024 ALC — Shiga University
+            © 2026 ALC — Shiga University
           </p>
         </div>
       </div>

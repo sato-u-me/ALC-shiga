@@ -20,6 +20,7 @@ export default function Contact() {
         </h2>
         <p className="text-white/70 mb-10 max-w-lg mx-auto leading-relaxed">
           入部・見学・質問など、なんでもDMでどうぞ。<br />
+          学年、学部問わず、AIに興味がある方は大歓迎です。<br />
           公式Instagramからお気軽にご連絡ください。
         </p>
         <a
