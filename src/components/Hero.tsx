@@ -17,7 +17,7 @@ export default function Hero() {
   const fontSize = isMobile ? FONT_SIZE_MOBILE : FONT_SIZE_DESKTOP
 
   return (
-    <section className="relative min-h-screen flex flex-col" style={{ overflow: 'hidden' }}>
+    <section className="relative min-h-svh flex flex-col" style={{ overflow: 'hidden' }}>
       {/* Hero image */}
       <div className="absolute inset-0">
         <img

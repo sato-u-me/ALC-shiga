@@ -33,7 +33,7 @@ export default function PastActivities() {
           <div key={i} className="bg-white rounded-2xl border border-[#DDE4EF] overflow-hidden grid md:grid-cols-[1fr_1.4fr]">
 
             {/* 左: ポスター */}
-            <div className="overflow-hidden">
+            <div className="overflow-hidden aspect-[16/10] md:aspect-auto">
               <img
                 src={event.poster}
                 alt={event.title}
