@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import About from './components/About'
 import UpcomingActivities from './components/UpcomingActivities'
 import PastActivities from './components/PastActivities'
+import Sponsors from './components/Sponsors'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import './index.css'
@@ -17,6 +18,7 @@ export default function App() {
         <About />
         <PastActivities />
         <UpcomingActivities />
+        <Sponsors />
         <Contact />
       </main>
       <Footer />
